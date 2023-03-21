@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AKHIL GIREESH</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm AKHIL GIREESH</h1>
 <h3 align="center">Incipient Blockchain Engineer ⚙️ | Web3, AI & FOSS Enthusiast | Learning in Public 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-gireesh&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-gireesh" /> </p>
