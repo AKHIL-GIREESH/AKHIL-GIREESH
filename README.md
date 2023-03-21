@@ -17,7 +17,7 @@ src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
 src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 
-<img align="left" alt="CSS" width="45px" style="padding-right:10px;" 
+<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
 
 
