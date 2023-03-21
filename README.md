@@ -24,8 +24,9 @@ src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /> 
 src = "https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" />
  </p>
  <br/>
- ___
-
-
+ 
+ ____
+ 
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKHIL-GIREESH)](https://github.com/anuraghazra/github-readme-stats)<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-gireesh&" alt="akhil-gireesh" />
 
