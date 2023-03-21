@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-gireesh&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-gireesh" /> </p>
 
-- 🌱 I’m currently learning **Full Stack, Blockchain**
+- 🌱 I’m currently learning **Blockchain Development, Full Stack Development, App Development, AI**
 
 - 💬 Ask me about **Full Stack, Blockchain**
 
