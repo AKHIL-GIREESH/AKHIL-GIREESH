@@ -1,28 +1,23 @@
-## Hello World 👋
+<h1 align="center">Hi 👋, I'm AKHIL GIREESH</h1>
+<h3 align="center">Incipient Blockchain Engineer ⚙️ | Web3, AI & FOSS Enthusiast | Learning in Public 🌐</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-gireesh&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-gireesh" /> </p>
 
-### Tech Stack
+- 🌱 I’m currently learning **Full Stack, Blockchain**
 
-<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" />
+- 💬 Ask me about **Full Stack, Blockchain**
 
-<img align="left" alt="Hardhat" width="45px" style="padding-right:10px;" 
-src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
+- 📫 How to reach me **contactakhilgireesh@gmail.com**
 
-<img align="left" alt="Ethers.JS" width="60px" style="padding-right:10px;" 
-src = "https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@_0x416b68696c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_0x416b68696c_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhil-gireesh-3b6aa5227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhil-gireesh-3b6aa5227/" height="30" width="40" /></a>
+<a href="https://discord.gg/SOULSTROMER#9751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SOULSTROMER#9751" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
-src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
-src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
-
-<img align="left" alt="CSS" width="32px" style="padding-right:10px;" 
-src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />
-
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-gireesh&" alt="akhil-gireesh" /></p>
 
