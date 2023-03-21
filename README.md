@@ -23,5 +23,5 @@ src = "https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ether
  </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKHIL-GIREESH)](https://github.com/anuraghazra/github-readme-stats)<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-gireesh&" alt="akhil-gireesh" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKHIL-GIREESH)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-gireesh&" alt="akhil-gireesh" />
 
