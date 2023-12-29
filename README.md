@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Full Stack Development, AI, ML**
 
-- 💬 Ask me about **Full Stack, Blockchain**
+- 💬 Ask me about **Full Stack, Blockchain, ML**
 
 - 📫 How to reach me **contactakhilgireesh@gmail.com**
 
